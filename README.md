@@ -89,3 +89,9 @@ Add data-backed business recommendations based on your analysis.
 ## Author
 
 Created as an e-commerce data analytics portfolio project.
+
+## Dashboard Preview
+Regional Business Insights.png
+Product Analysis.png
+Executive Overview.png
+Customer Analysis.png
